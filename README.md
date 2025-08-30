@@ -66,10 +66,13 @@ Tests are written in test_hello.py
     Install dependencies
     Lint with flake8
     Run pytest with coverage
+
 --> Workflow: https://github.com/sejal-jagtap/de_python_template/blob/main/.github/workflows/main.yml
 
 6. Additional Notes
 
 --> Always activate your virtual environment before running commands or tests.
+
 --> VS Code users: set the interpreter to .de_python_template for auto-activation.
+
 --> Optional: macOS/Linux users may need to adjust activate paths (source .de_python_template/bin/activate).

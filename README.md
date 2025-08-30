@@ -53,13 +53,18 @@ Tests are written in test_hello.py
     python -m pytest -vv test_hello.py
 
 4. Make file commands (cmd)
+   
     make install     #Installs dependencies
+   
     make test        #Runs pytest
+   
     make lint        #Runs flake8
+   
     make format      #Formats code with black
+   
     make clean       #Cleans cache and coverage files
 
-6. CI/CD
+5. CI/CD
 
 --> This repository uses GitHub Actions to automate testing and linting on every push or pull request.
 --> Workflow runs include:

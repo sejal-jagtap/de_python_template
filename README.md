@@ -59,7 +59,7 @@ Tests are written in test_hello.py
     make format      #Formats code with black
     make clean       #Cleans cache and coverage files
 
-5. CI/CD
+6. CI/CD
 
 --> This repository uses GitHub Actions to automate testing and linting on every push or pull request.
 --> Workflow runs include:

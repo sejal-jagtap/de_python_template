@@ -1,5 +1,6 @@
 # de_python_template
 Python Project Template for Data Engineering System (IDS 706):
+[![Python Template for IDS706](https://github.com/sejal-jagtap/de_python_template/actions/workflows/main.yml/badge.svg)](https://github.com/sejal-jagtap/de_python_template/actions/workflows/main.yml)
 
 1. Setup 
 

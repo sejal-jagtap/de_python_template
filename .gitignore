@@ -1,3 +1,6 @@
+# Virtual environment
+.de_python_template/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
